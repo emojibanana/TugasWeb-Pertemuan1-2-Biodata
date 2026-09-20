@@ -32,8 +32,8 @@ Ini adalah Data Personal versi BETA punya saya berbasis HTML dan CSS (Tailwind C
 
 Ahmad Al Banna
 - Email: ahmadbanna1709@gmail.com
-- Social links included in the site
+- Link sosial media ada di situsnya (Belom)
 
 ---
 
-*This repository is for educational purposes.*
+*Repo ini cuma untuk Tugas Kuliah! Tapi mungkin bisa dikembangkan lagi.*
