@@ -1,6 +1,6 @@
 # TugasWeb-Pertemuan1-2-Biodata
 
-[![BETA](https://img.shields.io/badge/status-BETA-yellow)](https://github.com/ahmadbanna/TugasWeb-Pertemuan1-2-Biodata)
+[![BETA](https://img.shields.io/badge/status-BETA-yellow)](https://github.com/emojibanana/TugasWeb-Pertemuan1-2-Biodata)
 
 This is a BETA version of a personal biodata website built with HTML, CSS (Tailwind CSS via CDN), and vanilla JavaScript. The site displays personal information, education history, and social media links in Indonesian.
 
