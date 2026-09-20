@@ -2,31 +2,31 @@
 
 [![BETA](https://img.shields.io/badge/status-BETA-yellow)](https://github.com/emojibanana/TugasWeb-Pertemuan1-2-Biodata)
 
-This is a BETA version of a personal biodata website built with HTML, CSS (Tailwind CSS via CDN), and vanilla JavaScript. The site displays personal information, education history, and social media links in Indonesian.
+Ini adalah Data Personal versi BETA punya saya berbasis HTML dan CSS (Tailwind CSS via CDN). Situs ini berisi informasi personal, jenjang pendidikan, and link sosial media saya.
 
-## What's included
+## Apa Isi nya?
 
-- Simple one-page biodata layout
-- Navigation with anchors
-- Social media buttons (Instagram, Facebook, Twitter, LinkedIn, YouTube, TikTok)
-- Contact form placeholder
+- satu halaman biodata sederhana
+- Navigation pakai anchors
+- Tombol Sosial media (Instagram, Facebook, Twitter, LinkedIn, YouTube, TikTok) (BELUM ADA ISINYA!)
+- Form kontak placeholder
 - Tailwind CSS (via CDN)
 - Bootstrap CSS (local files included)
 
-## Known issues / work in progress
+## Kekurangan/Lagi Dikerjain
 
-- Layout may not be fully responsive on mobile devices
-- Form elements are placeholders only (no backend)
-- Missing input validation
-- Style refinement needed for better visual hierarchy
+- Layout mungkin tidak sepenuhnya responsif pada perangkat mobile
+- Elemen formulir hanya placeholder (tanpa backend)
+- Validasi input hilang
+- Penyempurnaan gaya diperlukan untuk visual yang lebih mantap
 
-## Planned improvements
+## Rencananya
 
-- Modern, clean visual design
-- Improved mobile responsiveness
-- Form functionality (server-side or third-party)
-- Accessibility enhancements
-- Performance optimizations
+- Desain visual yang modern dan bersih
+- Peningkatan responsif untuk mobile
+- Fungsionalitas formulir (sisi server atau pihak ketiga)
+- Peningkatan aksesibilitas
+- Optimasi kinerja
 
 ## Author
 
