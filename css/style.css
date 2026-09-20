@@ -1,0 +1,135 @@
+body {
+    background: linear-gradient(to left, rgb(0, 0, 0),rgb(31, 31, 31),
+    rgb(59, 59, 59), rgb(31, 31, 31),  rgb(0, 0, 0));
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    animation: animated 20s linear infinite;
+}
+
+label {
+    color: rgb(255, 255, 255);
+
+}
+
+th, td{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.label-danger {
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 150px;
+}
+
+.label-success {
+    background-color: rgb(30, 210, 30);
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 150px;
+}
+
+.label-success-1 {
+    background-color: rgb(30, 210, 30);
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 100px;
+}
+
+.label-warning-2 {
+    background-color: rgb(180, 211, 0);
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 100px;
+}
+
+.label-danger-3 {
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 100px;
+}
+
+.arttext:hover {
+    background: linear-gradient(to left, red, orange, yellow, green, blue, indigo, purple);
+    background-clip: text;
+    display: inline;
+    color: transparent;
+    animation: animated 5s linear infinite;
+
+}
+
+.arttext-aura:hover {
+    background: linear-gradient(to left, purple,black);
+    background-clip: text;
+    display: inline;
+    color: transparent;
+    animation: animated 5s linear infinite;
+
+}
+
+.panel{
+    background-color: rgb(24, 24, 24);
+}
+
+.edit-form {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 400px;
+    background: rgb(24, 24, 24);
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+        margin: auto;
+    }
+
+    .panel {
+        padding: 10px;
+    }
+
+    .form-control {
+        font-size: 14px;
+    }
+
+    button {
+        width: 100%; /* Tombol memenuhi lebar layar */
+    }
+
+    table {
+        width: 50%;
+        margin: auto; 
+    }
+}
+
+
+@keyframes animated {
+    to {background-position-x: 200px;}
+    
+}
